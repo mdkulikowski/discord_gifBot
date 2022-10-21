@@ -3,10 +3,10 @@
 
 import discord
 import gifs
-
+import key
 
 #####data###############
-TOKEN = "MTAwNTUwNDkwNzE0MDQxNTYwMQ.GLL8xX.gc9zHFXC9-xRM9JaV8CaCebfIGDEhbq8SL6jfg"
+TOKEN = key.key
 ########################
 
 #####functions##########
